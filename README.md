@@ -10,6 +10,7 @@ Lyon 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.zqlblog.com/my-github-repos)
 * [qqq](https://www.zqlblog.com/articles/2019/09/13/1568361783022.html)
 * [世界，你好！](https://www.zqlblog.com/hello-solo)
 
